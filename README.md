@@ -1,1 +1,1 @@
-# Art_gallary
+# Art_gallery
